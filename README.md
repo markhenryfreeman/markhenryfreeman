@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @markhenryfreeman
 - 👀 I’m interested in learning about software development.
 - 🌱 I’m currently a helicopter instructor pilot preparing for a career change and learning cs fundamentals.
-- 💞️ I’m looking to collaborate on C/C++
+- 💻 I’m looking to collaborate with like-minded coders
 - 📫 How to reach me at mark.henry.freeman@gmail.com
 
 <!---
